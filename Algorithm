@@ -1,0 +1,14 @@
+Algorithm 
+STEP 1: Start
+STEP 2: Accept co-efficients a, b and c from user
+STEP 3: Calculate determinant = (b*b) - (4*a*c)
+STEP 4: Check if determinant is =0, <0 or >0
+STEP 5: In each case, calculate the roots, imaginary or real
+	If it is equal to 0, then roots are equal and real, the root being =
+	-b/2*a
+	If it is greater than zero, roots are unequal and real
+	root 1= (-b + (b2-4ac)1/2)/2a
+	root 2= (-b - (b2-4ac)1/2)/2a
+	If it is lesser than zero, roots are imaginary
+STEP 6: Print the roots of the equation
+STEP 7: Stop
